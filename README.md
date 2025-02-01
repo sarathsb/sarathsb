@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathsb&label=Profile%20views&color=0e75b6&style=flat" alt="sarathsb" /> </p>
 
-- 🔭 I’m currently working on **React, Javascript ,Tailwind CSS**
+- 🔭 I’m currently working on **Flutter, Dart, JAVASCRIPT ,**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 Contact me **sarathsb2003@gmail.com**
 
