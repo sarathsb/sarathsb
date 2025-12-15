@@ -11,6 +11,13 @@
 
 - 📫 Contact me **sarathsb2003@gmail.com**
 
+- 🧠 What I Do
+• Build production-ready Flutter mobile apps
+• Develop REST APIs using Node.js & NestJS
+• Work with real-time communication (WebSockets / RTC)
+• Integrate frontend and backend systems
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarath-sb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarath-sb/" height="30" width="40" /></a>
