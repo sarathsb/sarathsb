@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flutter, Dart, JAVASCRIPT ,**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 Currently working with Flutter, Dart, JavaScript, Node.js & NestJS**
 
 - 📫 Contact me **sarathsb2003@gmail.com**
 
